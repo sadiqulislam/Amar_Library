@@ -16,6 +16,6 @@ urlpatterns = [
     path("Home.py",home,name="home"),
     path("Book-List.py",book_list,name="book-list"),
     path("Member-List.py",member_list,name="member-list"),
-    path("Add-Book.py",add_book,name="Add-Book"),
-    path("About-Us.py",about,name="About")
+    path("Add-Book.py",add_book,name="add-book"),
+    path("About-Us.py",about,name="about")
 ]

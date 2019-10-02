@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9625c73c-3837-4df9-b356-9b8ad442a204" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/presence/templates/presence/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presence/templates/presence/add_book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presence/templates/presence/book_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presence/templates/presence/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presence/templates/presence/member_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presence/templates/presence/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/presence/templates/presence/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/presence/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/presence/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presence/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/presence/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +32,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project/Gaan-A-Music-Website" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,7 +64,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
